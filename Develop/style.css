@@ -1,0 +1,20 @@
+body {
+    background-color: grey;
+}
+
+.header {
+    background-color: rgb(0, 153, 255);
+    color: white;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+h2 {
+    font-weight: 700;
+}
+
+li {
+    font-style: italic;
+}
